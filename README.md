@@ -51,7 +51,7 @@ We employ a two-stage approach for visual document understanding:
 
 - **Visual Document Retrieval (VDR):** Utilizes **ColQwen2** for robust visual retrieval.
 - **Visual Document QA (VDQA):** Leverages **Qwen3-VL-2B** for answering questions across multi-page documents.
-- **Configuration:** The image resolution strategy is adjusted to a maximum of `1280 * 28 * 28`.
+- **Configuration:** Default conf setting.
 
 > Please refer to the source code for more detailed implementation specifics.
 
